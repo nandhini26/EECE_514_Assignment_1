@@ -76,10 +76,12 @@ ActiveMQ:
 1.activemqerrorrevealingtest
 2.activemqerrorrevealingtest-nolimit 
 Monkey
+
  (a) MovieGuide 
 API key was received from movie guide site.
 tmdb_api_key=7e58927f3c0c994fa720453614109035
 Multiple runs were tested using Monkey-movie guide application.
+
 (b) LeafPic
 Multiple runs were tested using Monkey-Leaf pic application.
 
