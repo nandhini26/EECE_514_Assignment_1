@@ -29,6 +29,7 @@ Nandhinis-Air:randoop-4.0.4 nandhini$ java -classpath .:./jpacman-framework.jar:
 Active-MQ
 
 Randoop-ActiveMQ-class files tested 
+
 nl.tudelft.jpacman.game.Game
 nl.tudelft.jpacman.level.Player
 nl.tudelft.jpacman.sprite.PacManSprites
@@ -42,7 +43,7 @@ nl.tudelft.jpacman.sprite.Sprite
 Performance Monitoring:
 Since the time taken to generate the test cases was high, I have used the following format multi-threaded option.
 
-Nandhinis-Air:randoop-4.0.4 nandhini$ java -classpath .:./activemq-all-5.15.4.jar:./randoop-all-4.0.4.jar    randoop.main.Main gentests   --classlist=activemqclasses.txt --flaky-test-behavior=DISCARD    --time-limit=60 --usethreads
+java -classpath .:./activemq-all-5.15.4.jar:./randoop-all-4.0.4.jar    randoop.main.Main gentests   --classlist=activemqclasses.txt --flaky-test-behavior=DISCARD    --time-limit=60 --usethreads
 
 Testing Method
 
