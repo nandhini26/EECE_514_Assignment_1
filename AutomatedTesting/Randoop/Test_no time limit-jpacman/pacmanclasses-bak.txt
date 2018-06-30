@@ -1,0 +1,8 @@
+nl.tudelft.jpacman.game.Game
+nl.tudelft.jpacman.level.Player
+nl.tudelft.jpacman.sprite.PacManSprites
+nl.tudelft.jpacman.board.Square
+nl.tudelft.jpacman.level.Level
+nl.tudelft.jpacman.board.Board
+nl.tudelft.jpacman.sprite.AnimatedSprite
+nl.tudelft.jpacman.sprite.Sprite

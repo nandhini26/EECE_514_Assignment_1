@@ -1,0 +1,13 @@
+org.apache.activemq.ActiveMQConnectionFactory
+org.apache.activemq.broker.BrokerService
+org.apache.activemq.broker.TransportConnector
+org.apache.activemq.command.ActiveMQQueue
+org.apache.activemq.transport.TransportListener
+org.apache.activemq.ActiveMQConnection
+org.apache.activemq.openwire.OpenWireFormat
+org.apache.activemq.util.ByteSequence
+org.apache.activemq.broker.Broker
+org.apache.activemq.broker.BrokerFilter
+org.apache.activemq.broker.BrokerPlugin
+org.apache.activemq.broker.ConnectionContext
+org.apache.activemq.command.ConnectionInfo
